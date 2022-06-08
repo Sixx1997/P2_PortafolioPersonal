@@ -1,0 +1,64 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: bisque;
+  font-family: "Times New Roman", Times, serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.bg-principal {
+  background-color: black;
+  color: white;
+  text-align: right;
+}
+
+.pad-y {
+  padding-top: 10%;
+}
+
+.boton {
+  border: 1px solid black;
+  padding: 10px 25px;
+  border-radius: 30px;
+  font-weight: bold;
+  color: black;
+}
+
+.pad-new {
+  padding-top: 3%;
+}
+
+.pad-izqu {
+  padding-left: 20%;
+}
+
+.pad-ssd {
+  padding-top: 15%;
+}
+
+.pad-right {
+  padding-right: 50%;
+}
+
+.pad-l {
+  padding-left: 3%;
+}
+
+.padf {
+  padding-left: 10%;
+}
+
+i {
+  font-size: 3rem;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
